@@ -171,12 +171,6 @@
 			<artifactId>tiles-core</artifactId>
 			<version>3.0.5</version>
 		</dependency>
-
-
-		<!-- 출처: http://multifrontgarden.tistory.com/95 [우리집앞마당] -->
-
-
-
 	</dependencies>
 
 	<build>
