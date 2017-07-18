@@ -2,6 +2,7 @@
 <div class="jumbotron">
     <h1>Admin</h1>
     
+    
 </div>
 <c:url var="signUpInsert" value="/signUpInsert" />
 <form class="form-horizontal" action="${signUpInsert}" method="post">
